@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Monografia.aux
+The style file: abnt-num.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: abnt-options.bib
+Database file #2: bib.bib
+Warning--entry type for "ME01" isn't style-file defined
+--line 39 of file bib.bib
+Warning--entry type for "TF12" isn't style-file defined
+--line 137 of file bib.bib
+Warning--I didn't find a database entry for "abnt-num"
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=5001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliográfico abnt-num.bst versão 1.42.2.1           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+You've used 17 entries,
+            6480 wiz_defined-function locations,
+            1255 strings with 11752 characters,
+and the built_in function-call counts, 10635 in all, are:
+= -- 882
+> -- 266
+< -- 6
++ -- 140
+- -- 84
+* -- 657
+:= -- 1514
+add.period$ -- 57
+call.type$ -- 17
+change.case$ -- 128
+chr.to.int$ -- 32
+cite$ -- 17
+duplicate$ -- 573
+empty$ -- 907
+format.name$ -- 423
+if$ -- 2510
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 305
+newline$ -- 84
+num.names$ -- 68
+pop$ -- 440
+preamble$ -- 1
+purify$ -- 55
+quote$ -- 0
+skip$ -- 609
+stack$ -- 1
+substring$ -- 342
+swap$ -- 213
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 87
+width$ -- 0
+write$ -- 216
+(There were 3 warnings)

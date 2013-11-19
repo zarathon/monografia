@@ -1,0 +1,107 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.42.2.1 }
+
+\bibitem{SI11}
+\abntrefinfo{Sirotheau}{SIROTHEAU}{2011}
+{SIROTHEAU, S. Aprendizagem de iniciantes em algoritmos e programa{\c c}{\~a}o:
+  foco nas compet{\^e}ncias de autoavalia{\c c}{\~a}o.
+\emph{Anais do XXII SBIE - XVII WIE}, 2011.}
+
+\bibitem{TF12}
+\abntrefinfo{Allen}{ALLEN}{2012}
+{ALLEN, S. \emph{About Test-First Teaching}. 2012.
+Dispon{\'\i}vel em: $<$http://testfirst.org/about$>$.}
+
+\bibitem{VA09}
+\abntrefinfo{Vahldick}{VAHLDICK}{2009}
+{VAHLDICK, A. Uma experi{\^e}ncia l{\'u}dica no ensino de programa{\c c}{\~a}o
+  orientada a objetos.
+\emph{I Workshop de Ambientes de Apoio {\`a} Aprendizagem de Algoritmos e
+  Programa{\c c}{\~a}o -- Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c c}{\~a}o}, 2009.}
+
+\bibitem{DE08}
+\abntrefinfo{Deters}{DETERS}{2008}
+{DETERS, J.~I. O desafio de trabalhar com alunos repetentes na disciplina de
+  algoritmos e programa{\c c}{\~a}o.
+\emph{II Workshop de Ambientes de apoio {\`a} Aprendizagem de Algoritmos e
+  Programa{\c c}{\~a}o - Simp{\'o}sio Brasileiro de Inform{\'a}tica na Educa{\c
+  c}{\~a}o}, 2008.}
+
+\bibitem{DB86}
+\abntrefinfo{Boulay}{BOULAY}{1986}
+{BOULAY, B.~D. Some difficulties of learning to program.
+\emph{Journal of Educational Computing Research}, v.~2, 1986.}
+
+\bibitem{ME01}
+\abntrefinfo{Mendes}{MENDES}{2001}
+{MENDES, A. J.~N. \emph{Software Educativo para Apoio {\`a} Aprendizagem de
+  Programa{\c c}{\~a}o}. 2001.
+Dispon{\'\i}vel em:
+  $<$http://www.c5.cl/ieinvestiga/actas/tise01/pags/charlas/index.htm$>$.}
+
+\bibitem{GM00}
+\abntrefinfo{Mendes e Gomes}{MENDES; GOMES}{2000}
+{MENDES, A. J.~N.; GOMES, A.~J. Suporte {\`a} aprendizagem da programa{\c
+  c}{\~a}o com o ambiente sicas.
+\emph{V Congresso Iberoamericano de Informatica Educativa}, 2000.}
+
+\bibitem{VL09}
+\abntrefinfo{Valente}{VALENTE}{1996}
+{VALENTE, J.~A. \emph{O Computador na Sociedade do Conhecimento}. [S.l.]:
+  NIED/UNICAMP, 1996.}
+
+\bibitem{DT02}
+\abntrefinfo{Dante}{DANTE}{2002}
+{DANTE, L.~R. \emph{Did{\'a}tica da Resolu{\c c}{\~a}o de Problemas de
+  Matem{\'a}tica}. S{\~a}o Paulo / SP: {\'A}tica, 2002.}
+
+\bibitem{CB10}
+\abntrefinfo{Filho}{FILHO}{2010}
+{FILHO, C. B.~L. Elabora{\c c}{\~a}o de algoritmos e resolu{\c c}{\~a}o de
+  problemas para a aprendizagem matem{\'a}tica: Contribui{\c c}{\~o}es
+  rec{\'i}procas.
+\emph{Universidade Federal do Cear{\'a} - UFC Virtual}, 2010.}
+
+\bibitem{PO95}
+\abntrefinfo{Polya}{POLYA}{1995}
+{POLYA, G. \emph{A arte de resolver problemas}. 1ed. ed. [S.l.]: INTERCIENCIA,
+  1995.}
+
+\bibitem{FU1}
+\abntrefinfo{Feij{\'o}, Clua e Silva}{FEIJ{\'O}; CLUA; SILVA}{2010}
+{FEIJ{\'O}, B.; CLUA, E.; SILVA, F. S.~C. da. \emph{Introdu{\c c}{\~a}o {\`a}
+  Ci{\^e}ncia da Computa{\c c}{\~a}o com Jogos}. [S.l.]: Campus, 2010.}
+
+\bibitem{FU2}
+\abntrefinfo{Aguilar}{AGUILAR}{2008}
+{AGUILAR, L.~J. \emph{Fundamentos de Programa{\c c}{\~a}o - Algoritmos,
+  Estruturas de Dados e Objetos}. [S.l.]: McGraw-Hill, 2008.}
+
+\bibitem{FU3}
+\abntrefinfo{Ascencio e Campos}{ASCENCIO; CAMPOS}{2008}
+{ASCENCIO, A. F.~G.; CAMPOS, E. A.~V. de. \emph{Fundamentos de Programa{\c
+  c}{\~a}o de Computadores}. [S.l.]: Pearson Education, 2008.}
+
+\bibitem{TL04}
+\abntrefinfo{Teles}{TELES}{2004}
+{TELES, V.~M. \emph{Extreme Programming: Aprenda a encantar seus usu{\'a}rios
+  desenvolvendo software com agilidade e alta qualidade}. 1ed. ed. [S.l.]:
+  Novatec, 2004.}
+
+\bibitem{SV07}
+\abntrefinfo{Sommerville}{SOMMERVILLE}{2007}
+{SOMMERVILLE, I. \emph{Engenharia de Software. Tradu{\c c}{\~a}o Selma Shin
+  Shimizu Melnikoff, Reginaldo Arakaki e Ed{\'\i}lson de Andrade Barbosa}. 8ed.
+  ed. [S.l.]: Pearson Education, 2007.}
+
+\bibitem{KB2003}
+\abntrefinfo{Beck}{BECK}{2003}
+{BECK, K. \emph{Test Driven Development: By Example}. 1ed. ed. [S.l.]: Pearson
+  Education, 2003.}
+
+\end{thebibliography}

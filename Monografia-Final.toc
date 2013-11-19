@@ -1,0 +1,16 @@
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{7}
+\contentsline {chapter}{\numberline {2}Objetivos}{9}
+\contentsline {section}{\numberline {2.1}Objetivo Geral}{9}
+\contentsline {section}{\numberline {2.2}Objetivos Espec\IeC {\'\i }ficos}{9}
+\contentsline {chapter}{\numberline {3}Revis\IeC {\~a}o Bibliogr\IeC {\'a}fica}{10}
+\contentsline {section}{\numberline {3.1}A problem\IeC {\'a}tica do ensino de fundamentos de programa\IeC {\c c}\IeC {\~a}o}{10}
+\contentsline {subsection}{\numberline {3.1.1}Caracteriza\IeC {\c c}\IeC {\~a}o de problema}{10}
+\contentsline {section}{\numberline {3.2}Roteiros para o ensino de fundamentos de programa\IeC {\c c}\IeC {\~a}o}{11}
+\contentsline {section}{\numberline {3.3}Teste de Software}{13}
+\contentsline {subsection}{\numberline {3.3.1}Testes de Unidade}{15}
+\contentsline {subsection}{\numberline {3.3.2}Testes de Aceita\IeC {\c c}\IeC {\~a}o}{16}
+\contentsline {section}{\numberline {3.4}TDD - Desenvolvimento de Software Guiado a Teste}{16}
+\contentsline {chapter}{\numberline {4}Procedimentos Metodol\IeC {\'o}gicos}{18}
+\contentsline {chapter}{\numberline {5}Cronograma}{19}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{20}

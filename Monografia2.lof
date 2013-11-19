@@ -1,0 +1,11 @@
+\select@language {brazil}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Fases de Teste. Fonte: Adaptada de \citeonline {SV07}\relax }}{13}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Modelo Geral de Processo de Teste de Software. Fonte: \citeonline {SV07}\relax }}{14}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Ciclo do TDD. Fonte: Adaptada de \citeonline {KB2003}\relax }}{16}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Tela inicial do Administrador. Fonte: Pr\IeC {\'o}prio autor\relax }}{22}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagrama de Caso de Uso do Adminstrador. Fonte: Pr\IeC {\'o}prio autor\relax }}{22}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Tela inicial do Professor. Fonte: Pr\IeC {\'o}prio autor\relax }}{23}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Diagrama de Caso de Uso do Professor. Fonte: Pr\IeC {\'o}prio autor\relax }}{23}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Tela inicial do Aluno. Fonte: Pr\IeC {\'o}prio autor\relax }}{24}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Diagrama de Caso de Uso do Aluno. Fonte: Pr\IeC {\'o}prio autor\relax }}{24}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Padr\IeC {\~a}o MVC em Ruby on Rails. Fonte: Pr\IeC {\'o}prio Autor\relax }}{25}

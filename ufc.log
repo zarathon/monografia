@@ -1,0 +1,1461 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  17 JUN 2012 00:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**ufc.sty
+(./ufc.sty
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2011/02/01 v1.2g Refers to last page's name (HMM; JPG)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language75
+LaTeX Info: Redefining \_ on input line 43.
+)
+
+./ufc.sty:98: LaTeX Error: \capa undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \renewcommand{\capa}
+                         {
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:130: LaTeX Error: \folhaderosto undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \renewcommand{\folhaderosto}
+                                  {
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:315: LaTeX Error: \ABNTchapterfont undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.315 \renewcommand{\ABNTchapterfont}
+                                     {\bfseries}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:316: LaTeX Error: \ABNTchaptersize undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.316 \renewcommand{\ABNTchaptersize}
+                                     {\Large}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:317: LaTeX Error: \ABNTanapsize undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.317 \renewcommand{\ABNTanapsize}
+                                  {\Large}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:318: LaTeX Error: \rightmarkformat undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.318 \renewcommand{\rightmarkformat}
+                                     {\small}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:319: LaTeX Error: \leftmarkformat undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.319 \renewcommand{\leftmarkformat}
+                                    {\small}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:320: LaTeX Error: \thepageformat undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320 \renewcommand{\thepageformat}
+                                   {\small}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:322: LaTeX Error: \ABNTsectionfont undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322 \renewcommand{\ABNTsectionfont}
+                                     {\bfseries}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:326: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.326 \renewcommand\@do
+                       tsep{2}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 326--327
+[] 
+ []
+
+
+./ufc.sty:329: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \renewcommand\l@c
+                       hapter[2]{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ] in font nullfont!
+./ufc.sty:330: Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.330   \ifnum \c
+                 @tocdepth >\m@ne
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./ufc.sty:330: Missing = inserted for \ifnum.
+<to be read again> 
+                   \global 
+l.330   \ifnum \c
+                 @tocdepth >\m@ne
+I was expecting to see `<', `=', or `>'. Didn't.
+
+./ufc.sty:330: Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.330   \ifnum \c
+                 @tocdepth >\m@ne
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+LaTeX Font Info:    Try loading font information for +cmr on input line 330.
+LaTeX Font Info:    No file cmr.fd. on input line 330.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 330.
+
+./ufc.sty:330: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.330   \ifnum \c@
+                  tocdepth >\m@ne
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 330.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no > in font nullfont!
+./ufc.sty:330: Undefined control sequence.
+l.330   \ifnum \c@tocdepth >\m
+                              @ne
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+
+./ufc.sty:331: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.331     \addpenalty{-\@highpenalty}
+                                     %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+./ufc.sty:335: Undefined control sequence.
+l.335       \ifthenelse
+                       {\boolean{ABNTpagenumstyle}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./ufc.sty:335: Undefined control sequence.
+l.335       \ifthenelse{\boolean
+                                {ABNTpagenumstyle}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+
+./ufc.sty:336: LaTeX Error: \@pnumwidthundefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.336         {\renewcommand{\@pnumwidth}
+                                         {3.5em}}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+./ufc.sty:338: Undefined control sequence.
+l.338       \parindent \z
+                         @ \rightskip \@pnumwidth
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./ufc.sty:338: Missing number, treated as zero.
+<to be read again> 
+                   @
+l.338       \parindent \z@
+                           \rightskip \@pnumwidth
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./ufc.sty:338: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   @
+l.338       \parindent \z@
+                           \rightskip \@pnumwidth
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no @ in font nullfont!
+./ufc.sty:338: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.338       \parindent \z@ \rightskip \@
+                                        pnumwidth
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./ufc.sty:338: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   d
+l.338       \parindent \z@ \rightskip \@p
+                                         numwidth
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+./ufc.sty:339: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.339       \parfillskip -\@
+                            pnumwidth
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./ufc.sty:339: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   d
+l.339       \parfillskip -\@p
+                             numwidth
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+
+./ufc.sty:340: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.340       \leavevmode \normalsize
+                                   \ABNTtocchapterfont
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./ufc.sty:340: Undefined control sequence.
+l.340 ...leavevmode \normalsize\ABNTtocchapterfont
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./ufc.sty:341: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.341       \advance\leftskip\@
+                               tempdima
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./ufc.sty:341: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   d
+l.341       \advance\leftskip\@t
+                                empdima
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+./ufc.sty:343: Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.343       \MakeUppercase{#1}
+                              \nobreak\normalfont\dotfill\nobreak%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./ufc.sty:343: You can't use `macro parameter character #' in horizontal mode.
+<to be read again> ##
+                     1
+l.343       \MakeUppercase{#1}
+                              \nobreak\normalfont\dotfill\nobreak%
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no 1 in font nullfont!
+./ufc.sty:344: Undefined control sequence.
+l.344       \ifthenelse
+                       {\boolean{ABNTpagenumstyle}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./ufc.sty:344: Undefined control sequence.
+l.344       \ifthenelse{\boolean
+                                {ABNTpagenumstyle}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./ufc.sty:346: Undefined control sequence.
+l.346           \hb
+                   @xt@\@pnumwidth{\hss
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./ufc.sty:347: Undefined control sequence.
+l.347             \ifthenelse
+                             {\not\equal{#2}{}}{{\normalfont p.\thinspace#2}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./ufc.sty:347: Missing $ inserted.
+<inserted text> 
+                $
+l.347             \ifthenelse{\not
+                                  \equal{#2}{}}{{\normalfont p.\thinspace#2}...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 347.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 347.
+./ufc.sty:347: Undefined control sequence.
+l.347             \ifthenelse{\not\equal
+                                        {#2}{}}{{\normalfont p.\thinspace#2}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./ufc.sty:347: You can't use `macro parameter character #' in math mode.
+l.347             \ifthenelse{\not\equal{#
+                                          2}{}}{{\normalfont p.\thinspace#2}...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./ufc.sty:347: Extra }, or forgotten $.
+l.347             \ifthenelse{\not\equal{#2}{}}
+                                               {{\normalfont p.\thinspace#2}...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./ufc.sty:347: You can't use `macro parameter character #' in math mode.
+l.347 ...t\equal{#2}{}}{{\normalfont p.\thinspace#
+                                                  2}}{}}\par
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./ufc.sty:347: Extra }, or forgotten $.
+l.347 ...l{#2}{}}{{\normalfont p.\thinspace#2}}{}}
+                                                  \par
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./ufc.sty:347: Missing $ inserted.
+<inserted text> 
+                $
+l.347 ...}{}}{{\normalfont p.\thinspace#2}}{}}\par
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./ufc.sty:347: Infinite glue shrinkage found in a paragraph.
+<recently read> \par 
+                     
+l.347 ...}{}}{{\normalfont p.\thinspace#2}}{}}\par
+                                                  
+The paragraph just ended includes some glue that has
+infinite shrinkability, e.g., `\hskip 0pt minus 1fil'.
+Such glue doesn't belong there---it allows a paragraph
+of any length to fit on one line. But it's safe to proceed,
+since the offensive shrinkability has been made finite.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 329--347
+[]
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 329--347
+[]
+ []
+
+
+Overfull \hbox (88.52797pt too wide) in paragraph at lines 329--347
+\OT1/cmr/m/n/10 ABNTpagenumstyle
+ []
+
+
+Overfull \hbox (79.72244pt too wide) in paragraph at lines 329--347
+\OT1/cmr/m/n/10 @xt@dpnumwidth
+ []
+
+
+Overfull \hbox (19.47578pt too wide) in paragraph at lines 329--347
+\OT1/cmr/m/n/10 2[][][]$
+ []
+
+./ufc.sty:350: Undefined control sequence.
+l.350           \hb
+                   @xt@\@pnumwidth{\hss #2}\par
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./ufc.sty:350: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.350           \hb@
+                    xt@\@pnumwidth{\hss #2}\par
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./ufc.sty:350: You can't use `macro parameter character #' in horizontal mode.
+l.350           \hb@xt@\@pnumwidth{\hss #
+                                         2}\par
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./ufc.sty:350: Infinite glue shrinkage found in a paragraph.
+l.350           \hb@xt@\@pnumwidth{\hss #2}\par
+                                               
+The paragraph just ended includes some glue that has
+infinite shrinkability, e.g., `\hskip 0pt minus 1fil'.
+Such glue doesn't belong there---it allows a paragraph
+of any length to fit on one line. But it's safe to proceed,
+since the offensive shrinkability has been made finite.
+
+
+Overfull \hbox (79.72244pt too wide) in paragraph at lines 350--350
+[]\OT1/cmr/m/n/10 @xt@dpnumwidth
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 350--350
+\OT1/cmr/m/n/10 2
+ []
+
+./ufc.sty:352: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.352       \penalty\@
+                      highpenalty
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+./ufc.sty:352: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.352       \penalty\@
+                      highpenalty
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./ufc.sty:353: Missing } inserted.
+<inserted text> 
+                }
+l.353     \endgroup
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ufc.sty:353: Missing } inserted.
+<inserted text> 
+                }
+l.353     \endgroup
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (56.94461pt too wide) in paragraph at lines 352--355
+[]\OT1/cmr/m/n/10 dhighpenalty
+ []
+
+
+./ufc.sty:397: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.397 \renewcommand*\l@s
+                        ection[2]{\@dottedtocline{1}{0em}{3.2em}{\textbf{#1}...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ] in font nullfont!
+./ufc.sty:397: Use of \@ doesn't match its definition.
+l.397 \renewcommand*\l@section[2]{\@d
+                                     ottedtocline{1}{0em}{3.2em}{\textbf{#1}...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+./ufc.sty:397: Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.397 ...@dottedtocline{1}{0em}{3.2em}{\textbf{#1}
+                                                  }{#2} }
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./ufc.sty:397: Illegal parameter number in definition of \reserved@b.
+<to be read again> 
+                   }
+l.397 ...@dottedtocline{1}{0em}{3.2em}{\textbf{#1}
+                                                  }{#2} }
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./ufc.sty:397: You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.397 ...@dottedtocline{1}{0em}{3.2em}{\textbf{#1}
+                                                  }{#2} }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./ufc.sty:397: You can't use `macro parameter character #' in horizontal mode.
+l.397 ...ttedtocline{1}{0em}{3.2em}{\textbf{#1}}{#
+                                                  2} }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+./ufc.sty:398: Use of \@ doesn't match its definition.
+l.398 \renewcommand*\l@subsection{\normalfont\@d
+                                                ottedtocline{2}{0em}{3.2em}}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+./ufc.sty:399: Use of \@ doesn't match its definition.
+l.399 \renewcommand*\l@subsubsection{\@d
+                                        ottedtocline{3}{0em}{3.2em}}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+
+Overfull \hbox (25.74997pt too wide) in paragraph at lines 397--400
+[]\OT1/cmr/bx/n/10 1
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 397--400
+\OT1/cmr/m/n/10 ot-
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 397--400
+\OT1/cmr/m/n/10 ted-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 397--400
+\OT1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (68.33348pt too wide) in paragraph at lines 397--400
+\OT1/cmr/m/n/10 cline20em3.2em
+ []
+
+
+./ufc.sty:415: LaTeX Error: \l @figureundefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.415 \renewcommand*{\l@figure}
+                               [2]{
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:415: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.415 \renewcommand*{\l@figure}
+                               [2]{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ] in font nullfont!
+./ufc.sty:420: Use of \@ doesn't match its definition.
+l.420 	\@t
+          empdima 2.0em
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+./ufc.sty:421: Use of \@ doesn't match its definition.
+l.421 	\advance\leftskip \@t
+                            empdima \null\nobreak\hskip -\leftskip
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+./ufc.sty:421: Missing number, treated as zero.
+<to be read again> 
+                   e
+l.421 	\advance\leftskip \@te
+                             mpdima \null\nobreak\hskip -\leftskip
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+./ufc.sty:422: You can't use `macro parameter character #' in horizontal mode.
+l.422 	{Figura \normalfont #
+                            1}\nobreak \figfillnum{#2}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./ufc.sty:422: Undefined control sequence.
+\figfillnum ...\normalfont \dotfill }\nobreak \hb 
+                                                  @xt@\@pnumwidth{\hfil \nor...
+l.422 ...a \normalfont #1}\nobreak \figfillnum{#2}
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+./ufc.sty:422: Use of \@ doesn't match its definition.
+\figfillnum ...font \dotfill }\nobreak \hb @xt@\@p
+                                                  numwidth{\hfil \normalfont...
+l.422 ...a \normalfont #1}\nobreak \figfillnum{#2}
+                                                  }
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+./ufc.sty:422: You can't use `macro parameter character #' in horizontal mode.
+<argument> ##
+             2
+l.422 ...a \normalfont #1}\nobreak \figfillnum{#2}
+                                                  }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 415--422
+[]
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 415--422
+[]  \OT1/cmr/m/n/10 1   2
+ []
+
+
+./ufc.sty:426: LaTeX Error: \l @tableundefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.426 \renewcommand*{\l@table}
+                              [2]{
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:426: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.426 \renewcommand*{\l@table}
+                              [2]{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ] in font nullfont!
+./ufc.sty:431: Use of \@ doesn't match its definition.
+l.431 	\@t
+          empdima 2.0em
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+./ufc.sty:432: Use of \@ doesn't match its definition.
+l.432 	\advance\leftskip \@t
+                            empdima \null\nobreak\hskip -\leftskip
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+./ufc.sty:432: Missing number, treated as zero.
+<to be read again> 
+                   e
+l.432 	\advance\leftskip \@te
+                             mpdima \null\nobreak\hskip -\leftskip
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+./ufc.sty:433: You can't use `macro parameter character #' in horizontal mode.
+l.433 	{Tabela \normalfont #
+                            1}\nobreak \tabfillnum{#2}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./ufc.sty:433: Undefined control sequence.
+\tabfillnum ...\normalfont \dotfill }\nobreak \hb 
+                                                  @xt@\@pnumwidth{\hfil \nor...
+l.433 ...a \normalfont #1}\nobreak \tabfillnum{#2}
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+./ufc.sty:433: Use of \@ doesn't match its definition.
+\tabfillnum ...font \dotfill }\nobreak \hb @xt@\@p
+                                                  numwidth{\hfil \normalfont...
+l.433 ...a \normalfont #1}\nobreak \tabfillnum{#2}
+                                                  }
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+./ufc.sty:433: You can't use `macro parameter character #' in horizontal mode.
+<argument> ##
+             2
+l.433 ...a \normalfont #1}\nobreak \tabfillnum{#2}
+                                                  }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 426--433
+[]
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 426--433
+[]  \OT1/cmr/m/n/10 1   2
+ []
+
+
+./ufc.sty:445: LaTeX Error: Command \l already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.445 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./ufc.sty:445: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.445 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+./ufc.sty:445: Missing number, treated as zero.
+<to be read again> 
+                   s
+l.445 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./ufc.sty:445: You already have nine parameters.
+\reserved@a ...def \expandafter \l \reserved@b #10
+                                                  s{
+l.445 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+I'm going to ignore the # sign you just used.
+
+./ufc.sty:445: Use of \@ doesn't match its definition.
+<argument> ...cm} \leftskip 0em \parindent 0em \@t
+                                                  empdima 5em \advance \left...
+l.445 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+./ufc.sty:445: Use of \@ doesn't match its definition.
+<argument> ...@tempdima 5em \advance \leftskip \@t
+                                                  empdima \null \nobreak \hs...
+l.445 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+./ufc.sty:445: Missing number, treated as zero.
+<to be read again> 
+                   e
+l.445 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+./ufc.sty:445: You can't use `macro parameter character #' in horizontal mode.
+<argument> ...ak \hskip -\leftskip {\normalfont ##
+                                                  1}\hfil \nobreak \par 
+l.445 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 445--445
+[]
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 445--445
+[] \OT1/cmr/m/n/10 1
+ []
+
+
+./ufc.sty:457: LaTeX Error: Command \l already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.457 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./ufc.sty:457: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.457 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+./ufc.sty:457: Missing number, treated as zero.
+<to be read again> 
+                   s
+l.457 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./ufc.sty:457: You already have nine parameters.
+\reserved@a ...def \expandafter \l \reserved@b #10
+                                                  s{
+l.457 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+I'm going to ignore the # sign you just used.
+
+./ufc.sty:457: Use of \@ doesn't match its definition.
+<argument> ...cm} \leftskip 0em \parindent 0em \@t
+                                                  empdima 5em \advance \left...
+l.457 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+./ufc.sty:457: Use of \@ doesn't match its definition.
+<argument> ...@tempdima 5em \advance \leftskip \@t
+                                                  empdima \null \nobreak \hs...
+l.457 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+./ufc.sty:457: Missing number, treated as zero.
+<to be read again> 
+                   e
+l.457 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+./ufc.sty:457: You can't use `macro parameter character #' in horizontal mode.
+<argument> ...ak \hskip -\leftskip {\normalfont ##
+                                                  1}\hfil \nobreak \par 
+l.457 	{\normalfont #1}\hfil\nobreak\par}
+                                         
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 457--457
+[]
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 457--457
+[] \OT1/cmr/m/n/10 1
+ []
+
+
+./ufc.sty:461: LaTeX Error: \pretextualchapter undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.461 \renewcommand\pretextualchapter
+                                     {
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:470: LaTeX Error: \ABNTchaptermark undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.470 \renewcommand{\ABNTchaptermark}
+                                     [1]{
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./ufc.sty:478: LaTeX Error: \ABNTBeginOfTextualPart undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.478 \renewcommand{\ABNTBeginOfTextualPart}
+                                            {
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+! Emergency stop.
+<*> ufc.sty
+           
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 189 strings out of 493633
+ 2561 string characters out of 3143378
+ 50539 words of memory out of 3000000
+ 3578 multiletter control sequences out of 15000+200000
+ 3948 words of font info for 15 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 18i,4n,17p,199b,112s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
